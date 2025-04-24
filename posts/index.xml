@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ShivaNarayanPS Blog</title>
+    <link>https://shivanarayanps.github.io/posts/</link>
+    <description>Recent content in Posts on ShivaNarayanPS Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Apr 2025 02:27:23 +0530</lastBuildDate>
+    <atom:link href="https://shivanarayanps.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shiva Here!!</title>
+      <link>https://shivanarayanps.github.io/posts/shiva/</link>
+      <pubDate>Fri, 25 Apr 2025 02:27:23 +0530</pubDate>
+      <guid>https://shivanarayanps.github.io/posts/shiva/</guid>
+      <description>&lt;p&gt;This is my content&lt;/p&gt;&#xA;&lt;p&gt;Detail-oriented Software Engineer with a strong foundation in system design, distributed computing, cloud infrastructure, and DevOps automation. Demonstrated success at Ushur in leading CI/CD pipeline automation, optimizing cloud operations, and resolving mission-critical issues that improved system availability to 99.99%. Passionate about developing scalable, efficient, and secure software with an eagerness to take on complex challenges across the stack. Proficient in collaborating across teams, adapting to fast-paced environments, and contributing to high-impact projects with real-world outcomes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
